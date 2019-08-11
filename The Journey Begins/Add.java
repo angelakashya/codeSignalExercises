@@ -10,6 +10,7 @@ public class Add {
         System.out.println(add(1, 2));
         System.out.println(add(0, 1000));
         System.out.println(add(2, -37));
+        System.out.println(add(-9, 10));
     }
     
 }
